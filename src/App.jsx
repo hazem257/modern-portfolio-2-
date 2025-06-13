@@ -3,9 +3,7 @@ import Hero from './components/hero/Hero'
 import { useEffect, useState } from 'react'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
-// @ts-ignore
-import Projects from './components/main/projects'
-//import Main from './components/main/Main.jsx'
+import Projects from './components/main/Projects'
 function App() {
 
   useEffect(()=>{
